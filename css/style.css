@@ -135,13 +135,13 @@ img{
 .footer2{
 	color: #333;
     position: fixed;
-    top: 558px;
+    top: 567px;
     left: 499px;
     width: 360px;
-    font-size: 12px;
+    font-size: 11px;
 }
 .footer2 a{
 	color: #3658a5;
-    font-size: 12px;
+    font-size: 11px;
     text-decoration: none;
 }
