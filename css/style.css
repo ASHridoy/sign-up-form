@@ -19,21 +19,22 @@ img{
 	font-size: 30px;
     position: absolute;
     top: -4px;
-    left: 503px;
+    left: 68px;
 }
 .header2{
 	font-size: 15px;
     position: absolute;
     top: 53px;
-    left: 506px;
+    left: 72px;
 }
 .header-section{
 	width: 500px;
-	overflow: hidden;
-	margin: 0 auto;
-	min-height: 600px;
-	background-color: #f6f7fb;
-	box-shadow: 4px 4px 4px #333;
+    overflow: hidden;
+    margin: 0 auto;
+    min-height: 600px;
+    background-color: #f6f7fb;
+    box-shadow: 4px 4px 4px #333;
+    position: relative;
 }
 .signup,.signin{
 	width: 100%;
@@ -101,7 +102,7 @@ img{
 	margin: 10px;
     position: absolute;
     top: 350px;
-    left: 492px;
+    left: 61px;
 }
 .p1{
 
@@ -110,7 +111,7 @@ img{
 	color: #365c9b;
     position: absolute;
     top: 374px;
-    left: 691px;
+    left: 256px;
     text-decoration: none;
     font-size: 13px;
 }
@@ -118,15 +119,15 @@ img{
 	position: absolute;
     margin: 5px;
     top: 23em;
-    left: 490px;
+    left: 60px;
 }
 .footer{
 	font-size: 12px;
     color: #777777;
     position: absolute;
     top: 38em;
-    left: 500px;
-    width: 360px;
+    left: 71px;
+    width: 390px;
 }
 .footer a{
 	text-decoration: none;
@@ -134,10 +135,10 @@ img{
 }
 .footer2{
 	color: #333;
-    position: fixed;
-    top: 567px;
-    left: 499px;
-    width: 360px;
+    position: absolute;
+    top: 559px;
+    left: 68px;
+    width: 359px;
     font-size: 11px;
 }
 .footer2 a{
